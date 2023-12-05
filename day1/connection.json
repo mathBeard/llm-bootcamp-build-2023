@@ -1,12 +1,12 @@
 {
     "account"      : "KZB10965" ,   
     "user"         : "USER0001" , 
-    "password"     : "" , 
+    "password"     : "TaliDad1" , 
     "role"         : "ROLE_USER0001" , 
     "warehouse"    : "WH_XS_USER0001" , 
     "database"     : "DB_USER0001" , 
     "schema"       : "SCHEMA_LLM" , 
     "compute_pool" : "COMPUTE_POOL_USER0001" , 
-    "huggingface_token"   : ""
+    "huggingface_token"   : "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"
 
 }
