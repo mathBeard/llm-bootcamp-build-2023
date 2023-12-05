@@ -1,11 +1,12 @@
 {
-  "account"   : "",
-  "user"      : "USER####",
-  "password"  : "",
-  "role"      : "ROLE_USER####",
-  "warehouse" : "WH_XS_USER####",
-  "database"  : "DB_USER####",
-  "schema"    : "SCHEMA_LLM",
-  "compute_pool" : "COMPUTE_POOL_USER####",
-  "huggingface_token": ""
+    "account"      : "KZB10965" ,   
+    "user"         : "USER0001" , 
+    "password"     : "" , 
+    "role"         : "ROLE_USER0001" , 
+    "warehouse"    : "WH_XS_USER0001" , 
+    "database"     : "DB_USER0001" , 
+    "schema"       : "SCHEMA_LLM" , 
+    "compute_pool" : "COMPUTE_POOL_USER0001" , 
+    "huggingface_token"   : ""
+
 }
